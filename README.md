@@ -11,7 +11,7 @@
 	
 # Theory slides
 
-The theory slides are available [here](resources/slides.pdf).
+The theory slides are available [here](resources/theory-machinelearning.pdf).
 
 # Day 1 Practice: Hands-On
 
